@@ -1,2 +1,1 @@
-# AdMob 가입 후, AdMob → 앱 → app-ads.txt 설정에 나오는 한 줄로 아래를 바꿔 주세요.
-# 예: google.com, pub-0000000000000000, DIRECT, f08c47fec0942fa0
+google.com, pub-4479424468418275, DIRECT, f08c47fec0942fa0
